@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Uribe @carlos-uribe-meli
-- 👀 I’m interested in leadership, management, product, user experience, CI/CD DevSecOps, 
+- 👀 I’m interested in leadership, management, product, user experience, CI/CD DevSecOps
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on seller central initiatives.
 - 📫 How to reach me:
